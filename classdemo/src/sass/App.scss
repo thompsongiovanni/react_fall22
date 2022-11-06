@@ -1,3 +1,4 @@
+@import "~bootstrap/scss/bootstrap";
 
 .App {
   text-align: center;
@@ -11,7 +12,8 @@
       animation: App-logo-spin infinite 20s linear;
     }
   }
-  
+//color: $var-name: #548274;  
+
   .App-header {
     background-color: $background-color;
     min-height: 100vh;
