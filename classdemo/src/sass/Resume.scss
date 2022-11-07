@@ -1,0 +1,15 @@
+@import "~bootstrap/scss/bootstrap";
+
+.App {
+    .App-container {
+      height: 40vmin;
+      pointer-events: none;
+    }};
+
+$container-max-widths: (
+    sm: 540px,
+    md: 720px,
+    lg: 960px,
+    xl: 1140px,
+    xxl: 1320px
+)
